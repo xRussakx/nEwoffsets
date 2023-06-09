@@ -1,0 +1,38 @@
+
+
+namespace OFFSETS
+
+#define UWorld = 0xF1ADD68
+{
+
+	uintptr_t ViewPoint = 0xF0D7A50;
+uintptr_t Gameinstance = 0x1b8;
+uintptr_t LocalPlayers = 0x38;
+uintptr_t PlayerController = 0x30;
+uintptr_t LocalPawn = 0x330;
+uintptr_t PlayerState = 0x2A8;
+uintptr_t RootComponent = 0x190;
+uintptr_t RelativeLocation = 0x128;
+uintptr_t GameState = 0x158;
+uintptr_t PlayerArray = 0x02A0;
+uintptr_t PawnPrivate = 0x300;
+uintptr_t TeamIndex = 0x10B8;
+uintptr_t CurrentWeapon = 0x908;
+uintptr_t bIsReloadingWeapon = 0x348;
+uintptr_t AmmoCount = 0xBF4;
+uintptr_t WeaponData = 0x430;
+uintptr_t ItemType = 0x70;
+uintptr_t DisplayName = 0x98;
+uintptr_t FText = 0x38;
+uintptr_t Tier = 0x73;
+uintptr_t Mesh = 0x310;
+uintptr_t LastSubmitTime = 0x360;
+uintptr_t LastRenderTimeOnScreen = 0x368;
+uintptr_t bIsDying = 0x710;
+uintptr_t isDBNO = 0x832;
+uintptr_t BoneArray = 0x5f0;
+uintptr_t pNameStructure = 0xAC8;
+uintptr_t ComponentToWorld = 0x240;
+uintptr_t PawnMaterials_ALL = 0x55d0;
+uintptr_t Wireframe = 0x194;
+}
